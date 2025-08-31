@@ -6,23 +6,18 @@
 [![Frontend](https://img.shields.io/badge/Frontend-Next.js-black?logo=next.js)](https://nextjs.org/)
 [![Frontend](https://img.shields.io/badge/Frontend-MaterialUI-0081CB?logo=mui&logoColor=white)](https://mui.com/)
 [![Frontend](https://img.shields.io/badge/Frontend-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-
 [![Backend](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)](https://nodejs.org/)
 [![Backend](https://img.shields.io/badge/Backend-Express-000000?logo=express&logoColor=white)](https://expressjs.com/)
 [![Backend](https://img.shields.io/badge/Backend-API-FF6F00?logo=swagger&logoColor=white)](https://swagger.io/)
-
 [![Database](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Database](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Database](https://img.shields.io/badge/ORM-Prisma-2D3748?logo=prisma&logoColor=white)](https://www.prisma.io/)
-
 [![Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![Cloud](https://img.shields.io/badge/Cloud-Firebase-039BE5?logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![Deployment](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://vercel.com/)
 [![Deployment](https://img.shields.io/badge/Deploy-Netlify-00C7B7?logo=netlify&logoColor=white)](https://www.netlify.com/)
-
 [![Tools](https://img.shields.io/badge/Tools-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 [![Tools](https://img.shields.io/badge/Tools-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
-
 ---
 
 # Hi, I'm Dereje Masresha! 👋
