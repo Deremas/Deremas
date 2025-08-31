@@ -62,7 +62,9 @@
 - 🐦 Twitter: [twitter.com/dbazmm3](https://twitter.com/dbazmm3)  
 - ✈️ Telegram: [t.me/Dere2224](https://t.me/Dere2224)  
 - 📧 Email: derejemasresha27@gmail.com  
-📱 Phone: [+251 922 243 038](tel:+251922243038)  
+- 📱 Phone: +251 922 243 038
+- 📱 WhatsApp: [Chat on WhatsApp](https://wa.me/251922243038)
+
 
 ---
 
